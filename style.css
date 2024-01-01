@@ -1,0 +1,104 @@
+
+.krippFaceit_content {
+    padding-left: 0px !important;
+    height: 55px !important;
+}
+
+.krippsFaceit_levelbox {
+    float: left;
+    height: 50px;
+    margin-right: 10px;
+    margin-left: 4px;
+}
+
+.krippFaceit_donate {
+    height: 20px;
+    width: 20px;
+    position: absolute;
+    margin-top: 3px;
+}
+
+.krippsFaceit_banned {
+    font-family: Play, sans-serif;
+    font-size: 0.75rem;
+    font-weight: 700;
+    line-height: 1.6;
+    display: inline-block;
+    background-color: rgb(255, 0, 0);
+    color: rgb(240, 240, 240);
+    text-transform: initial;
+    border-radius: 2px;
+    padding: 0px 8px;
+    vertical-align: middle;
+}
+
+.krippFaceit_description {
+    display: block;
+    margin-top: -10px;
+    font-size: 12px;
+    text-transform: capitalize;
+}
+
+.krippFaceit_country {
+    height: 14px;
+}
+
+.krippFaceit_block {
+    padding: 10px 10px 10px 10px !important;
+}
+
+.krippFaceit_stat {
+    font-size: 25px !important;
+    text-align: center;
+}
+
+.krippFaceit_namerow {
+    max-width: 220px;
+    overflow: hidden !important;
+    margin-top: 13px !important;
+}
+
+.krippFaceit_stats_row {
+    position: unset !important;
+    float: right;
+    margin-right: 10px;
+    margin-top: -5px;
+}
+
+.krippFaceit_stats_row2 {
+    position: unset !important;
+    float: right;
+    margin-right: 10px;
+    margin-top: 10px;
+    padding-top: 5px;
+    margin-bottom: 5px;
+    padding-bottom: 9px;
+}
+
+.krippFaceit_stat .value {
+    color: #e0de60 !important;
+    margin-bottom: 3px;
+}
+
+.krippFaceit_stat .label {
+    text-transform: uppercase;
+    font-size: 11px !important
+}
+
+.krippFaceit_stats_block {
+    display: flex;
+    flex-flow: wrap-reverse;
+    justify-content: center;
+    float: right;
+    width: 380px;
+    justify-content: right;
+}
+
+.last20 {
+    text-transform: uppercase;
+    font-size: 15px;
+    text-align: center;
+    float: left;
+    width: 100%;
+    margin-top: 13px;
+}
