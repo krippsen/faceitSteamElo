@@ -5,6 +5,7 @@
 Updated version of Faceit Stats by boomix - EloKing. Works with cs2 right now.
 
 ![alt text](https://i.imgur.com/jdOZfzP.jpeg)
+
 Extensions provides you:
 
 - Elo
